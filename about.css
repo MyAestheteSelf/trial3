@@ -1,0 +1,13 @@
+.content{
+    width: 60vw;
+    height: 50vh;
+    margin:auto;
+    display: grid;
+    grid-template-columns: 30% 70%;
+    grid-template-rows:1fr ;
+}
+.image>img{
+    width: 100%;
+    margin-top: 60px;
+    border-radius: 100%;
+}
